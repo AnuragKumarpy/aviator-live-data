@@ -28,5 +28,83 @@
     "endMultiplier": "32.44x",
     "approxEndTime": "2025-11-01T01:39:38.074+05:30",
     "timestamp_ist": "1/11/2025, 1:39:38 am"
+  },
+  {
+    "startTime": "2025-11-01T01:39:41.074+05:30",
+    "endMultiplier": "1.23x",
+    "approxEndTime": "2025-11-01T01:40:21.741+05:30",
+    "timestamp_ist": "1/11/2025, 1:40:21 am"
+  },
+  {
+    "startTime": "2025-11-01T01:40:24.741+05:30",
+    "endMultiplier": "2.48x",
+    "approxEndTime": "2025-11-01T01:40:28.934+05:30",
+    "timestamp_ist": "1/11/2025, 1:40:28 am"
+  },
+  {
+    "startTime": "2025-11-01T01:40:31.934+05:30",
+    "endMultiplier": "1.27x",
+    "approxEndTime": "2025-11-01T01:40:41.434+05:30",
+    "timestamp_ist": "1/11/2025, 1:40:41 am"
+  },
+  {
+    "startTime": "2025-11-01T01:40:44.434+05:30",
+    "endMultiplier": "1.48x",
+    "approxEndTime": "2025-11-01T01:40:56.072+05:30",
+    "timestamp_ist": "1/11/2025, 1:40:56 am"
+  },
+  {
+    "startTime": "2025-11-01T01:40:59.072+05:30",
+    "endMultiplier": "2.25x",
+    "approxEndTime": "2025-11-01T01:41:15.072+05:30",
+    "timestamp_ist": "1/11/2025, 1:41:15 am"
+  },
+  {
+    "startTime": "2025-11-01T01:41:18.072+05:30",
+    "endMultiplier": "1.35x",
+    "approxEndTime": "2025-11-01T01:42:30.407+05:30",
+    "timestamp_ist": "1/11/2025, 1:42:30 am"
+  },
+  {
+    "startTime": "2025-11-01T01:42:33.407+05:30",
+    "endMultiplier": "5.83x",
+    "approxEndTime": "2025-11-01T01:42:57.681+05:30",
+    "timestamp_ist": "1/11/2025, 1:42:57 am"
+  },
+  {
+    "startTime": "2025-11-01T01:43:00.681+05:30",
+    "endMultiplier": "1.33x",
+    "approxEndTime": "2025-11-01T01:43:10.681+05:30",
+    "timestamp_ist": "1/11/2025, 1:43:10 am"
+  },
+  {
+    "startTime": "2025-11-01T01:43:13.681+05:30",
+    "endMultiplier": "3.37x",
+    "approxEndTime": "2025-11-01T01:43:35.070+05:30",
+    "timestamp_ist": "1/11/2025, 1:43:35 am"
+  },
+  {
+    "startTime": "2025-11-01T01:43:38.070+05:30",
+    "endMultiplier": "1.17x",
+    "approxEndTime": "2025-11-01T01:43:46.069+05:30",
+    "timestamp_ist": "1/11/2025, 1:43:46 am"
+  },
+  {
+    "startTime": "2025-11-01T01:43:49.069+05:30",
+    "endMultiplier": "1.36x",
+    "approxEndTime": "2025-11-01T01:43:58.931+05:30",
+    "timestamp_ist": "1/11/2025, 1:43:58 am"
+  },
+  {
+    "startTime": "2025-11-01T01:44:01.931+05:30",
+    "endMultiplier": "2.24x",
+    "approxEndTime": "2025-11-01T01:44:19.069+05:30",
+    "timestamp_ist": "1/11/2025, 1:44:19 am"
+  },
+  {
+    "startTime": "2025-11-01T01:44:22.069+05:30",
+    "endMultiplier": "1.04x",
+    "approxEndTime": "2025-11-01T01:44:28.068+05:30",
+    "timestamp_ist": "1/11/2025, 1:44:28 am"
   }
 ]
